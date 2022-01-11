@@ -1,0 +1,5 @@
+Name: - Alice 
+ City: -Dubai 
+ Age:-29 
+ Vaccine:-Pfizer 
+ Last Test Taken Before:-5 days
